@@ -1,3 +1,4 @@
+/* Most Current */
 body {
    /* position: fixed; */
 }
@@ -25,4 +26,75 @@ nav {
    padding: 5px 3px 5px 3px;
    /* background-color: burlywood; */
    margin: 10px 20px 0 0px;
+}
+
+li {
+   display: inline;
+   margin: /*Top*/0 /*Right*/20px/*Bottom*/0/*Left*/20px;
+}
+
+.hdiv {
+   padding: 0;
+   margin: 0 0 0 0;
+   /* background-color: burlywood; */
+}
+
+ul {
+   padding: 0;
+   margin: 0 0 0 0;
+}
+
+.cont-left {
+   /* background-color: burlywood; */
+   float: left;
+   width: 40%;
+   margin: 100px 0px 100px 130px;
+   padding: 0 0 0 0;
+}
+
+.cont-right {
+   /* background-color: burlywood; */
+   float: right;
+   width: 35%;
+   margin: 45px 130px 0px 0;
+   height: 510px;
+   padding: 0 0 0 0;
+}
+
+.image {
+   width: 90%;
+   height: 100%;
+   margin: 0 0 0px 0;
+   padding: 0 0 0 0;
+}
+
+.make {
+   margin: 25px 0 0 25px;
+   font-size: 65px;
+   padding: 0;
+}
+
+.remote {
+   margin: 0 0 35px 25px;
+   font-size: 65px;
+   padding: 0;
+}
+
+.para {
+   margin: 30px 150px 0 25px;
+   line-height: 22px;
+   font-size: 15px;
+}
+.btn {
+   display: block;
+   width: 84px;
+   margin: 40px 0 50px 25px;
+   border: 1px solid black;
+   border-radius: 15px;
+   padding: 10px 21px 15px 21px;
+}
+.icon {
+   margin: 0 10px 0 10px;
+   padding: 0 0 0 0;
+   /* color: burlywood; */
 }
